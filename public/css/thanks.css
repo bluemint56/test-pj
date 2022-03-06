@@ -1,0 +1,25 @@
+body {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+}
+.message {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.top {
+  text-align: center;
+  margin-top: 50px;
+  
+}
+a {
+  text-decoration: none;
+  border: 1px solid black;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  padding: 7px;
+  font-weight: bold;
+}

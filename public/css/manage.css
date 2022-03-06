@@ -1,0 +1,58 @@
+.title {
+  text-align: center;
+  margin: 15px;
+  font-size: 20px;
+}
+.search {
+  border: 2px solid black;
+  width: 90%;
+  margin: 5px auto;
+}
+label {
+  margin: 10px;
+  width: 30%;
+}
+.find {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  border: 2px solid silver;
+  border-radius: 5px;
+  padding: 5px;
+}
+.sub-btn {
+  text-align: center;
+}
+.s-btn {
+  background-color: black;
+  color: white;
+  width: 10%;
+  border-radius: 5px;
+  padding: 5px
+}
+.reset-btn {
+  text-align: center;
+}
+.reset {
+  font-size: 12px;
+  color: black;
+}
+table {
+  margin: 20px auto;
+  width: 95%;
+}
+td {
+  padding: 30px;
+}
+th {
+  border-bottom: 1px solid black;
+}
+.delete {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  padding: 2px 8px;
+}
+.page {
+  text-align: right;
+  margin: 8px 20px;
+}
